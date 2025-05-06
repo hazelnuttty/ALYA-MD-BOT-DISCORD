@@ -1,0 +1,12 @@
+discord.py
+requests
+aiohttp
+beautifulsoup4
+pytz
+instaloader
+pillow
+speedtest
+python-dotenv
+psutil
+aiofiles
+colorama
